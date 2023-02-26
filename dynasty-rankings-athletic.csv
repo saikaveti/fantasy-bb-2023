@@ -1,0 +1,401 @@
+RANK,PLAYER,TEAM,AGE,POS
+1,Shohei Ohtani*,LAA,28.6,UT SP
+2,Julio Rodríguez,SEA,22.1,OF
+3,Ronald Acuña Jr.,ATL,25.2,OF
+4,Juan Soto,SD,24.3,OF
+5,Fernando Tatis Jr.,SD,24.1,SS OF
+6,Bobby Witt Jr.,KC,22.7,SS
+7,Vladimir Guerrero Jr.,TOR,23.9,1B
+8,Kyle Tucker,HOU,26.1,OF
+9,Yordan Alvarez,HOU,25.6,OF
+10,Jose Ramirez,CLE,30.3,3B
+11,Trea Turner,PHI,29.6,SS
+12,Aaron Judge,NYY,30.8,OF
+13,Mookie Betts,LAD,30.4,OF
+14,Bo Bichette,TOR,24.9,SS
+15,Rafael Devers,BOS,26.3,3B
+16,Pete Alonso,NYM,28.2,1B
+17,Manny Machado,SD,30.6,3B
+18,Bryce Harper,PHI,30.3,UTL
+19,Austin Riley,ATL,25.9,3B
+20,Shane McClanahan,TB,25.8,SP
+21,Mike Trout,LAA,31.5,OF
+22,Corbin Burnes,MIL,28.3,SP
+23,Sandy Alcantara,MIA,27.4,SP
+24,Corbin Carroll,ARI,22.5,OF
+25,Gunnar Henderson,BAL,21.6,3B
+26,Freddie Freeman,LAD,33.4,1B
+27,Michael Harris II,ATL,21.9,OF
+28,Spencer Strider,ATL,24.29,SP  RP
+29,Wander Franco,TB,21.9,SS
+30,Jazz Chisholm Jr.,MIA,25,2B
+31,Francisco Lindor,NYM,29.2,SS
+32,Adley Rutschman,BAL,25,C
+33,Luis Robert,CHW,25.5,OF
+34,Ozzie Albies,ATL,26.1,2B
+35,Gerrit Cole,NYY,32.4,SP
+36,Aaron Nola,PHI,29.7,SP
+37,Oneil Cruz,PIT,24.4,SS
+38,Dylan Cease,CHW,27.1,SP
+39,Matt Olson,ATL,28.9,1B
+40,Randy Arozarena,TB,28,OF
+41,Jacob deGrom,TEX,34.7,SP
+42,Brandon Woodruff,MIL,30,SP
+43,Alek Manoah,TOR,25.1,SP
+44,Paul Goldschmidt,STL,35.4,1B
+45,Jordan Lawlar,AZ,20.6,SS
+46,Emmanuel Clase,CLE,24.9,RP
+47,Corey Seager,TEX,28.8,SS
+48,Alex Bregman,HOU,28.9,3B
+49,Jordan Walker,STL,20.7,3B
+50,Teoscar Hernandez,SEA,30.3,OF
+51,Zac Gallen,AZ,27.5,SP
+52,Eloy Jimenez,CHW,26.2,OF
+53,Vinnie Pasquantino,KC,25.3,1B
+54,Daulton Varsho,TOR,26.6,C OF
+55,Anthony Volpe,NYY,21.8,SS
+56,Elly De La Cruz,CIN,21.1,SS
+57,Nolan Arenado,STL,31.8,3B
+58,George Kirby,SEA,25,SP
+59,Byron Buxton,MIN,29.2,OF
+60,Nick Lodolo,CIN,25,SP
+61,Julio Urias,LAD,26.5,SP
+62,Jose Altuve,HOU,32.8,2B
+63,Xander Bogaerts,SD,30.4,SS
+64,Riley Greene,DET,22.4,OF
+65,Jackson Chourio,MIL,18.92,OF
+66,Shane Bieber,CLE,27.7,SP
+67,Framber Valdez,HOU,29.2,SP
+68,Josh Hader,SD,28.9,RP
+69,Edwin Diaz,NYM,28.9,RP
+70,Carlos Correa,MIN,28.4,SS
+71,Andrew Vaughn,CHW,24.9,1B OF
+72,Marcus Semien,TEX,32.4,2B
+73,Cedric Mullins,BAL,28.4,OF
+74,Luis Castillo,SEA,30.2,SP
+75,Tyler Glasnow,TB,29.5,SP
+76,Jeremy Pena,HOU,25.4,SS
+77,Logan Gilbert,SEA,25.8,SP
+78,Jesus Luzardo,MIA,25.4,SP
+79,Cristian Javier,HOU,25.9,SP RP
+80,Hunter Greene,CIN,23.5,SP
+81,Carlos Rodon,NYY,30.2,SP
+82,Grayson Rodriguez,BAL,23.2,SP
+83,Andrew Painter,PHI,19.84,SP
+84,Zack Wheeler,PHI,32.7,SP
+85,Tommy Edman,STL,27.8,SS  2B
+86,Dansby Swanson,CHC,29,SS
+87,Kevin Gausman,TOR,32.1,SP
+88,Tim Anderson,CHW,29.6,SS
+89,Triston McKenzie,CLE,25.4,SP
+90,Joe Musgrove,SD,30.2,SP
+91,Andres Gimenez,CLE,24.4,2B SS
+92,Kyle Schwarber,PHI,29.9,1B OF
+93,Miguel Vargas,LAD,23.2,3B
+94,CJ Abrams,WAS,22.4,SS
+95,James Wood,WAS,20.4,OF
+96,Nate Lowe,TEX,27.6,1B
+97,Josh Jung,TEX,25,3B
+98,Adolis Garcia,TEX,30,OF
+99,Bryan Reynolds,PIT,28,OF
+100,Druw Jones,AZ,19.2,OF
+101,Max Fried,ATL,29.1,SP
+102,Vaughn Grissom,ATL,22.1,SS
+103,Ke'Bryan Hayes,PIT,26,3B
+104,Freddy Peralta,MIL,26.7,SP
+105,Robbie Ray,SEA,31.4,SP
+106,Will Smith,LAD,27.9,C
+107,Jose Miranda,MIN,24.6,1B  3B
+108,J.T. Realmuto,PHI,31.9,C
+109,Dustin May,LAD,25.4,SP
+110,Luis Severino,NYY,29,SP
+111,Justin Verlander,NYM,40,SP
+112,Max Scherzer,NYM,38.6,SP
+113,Kyle Manzardo,TB,22.6,1B
+114,Ricky Tiedemann,TOR,20.48,SP
+115,Eury Perez,MIA,19.8,SP
+116,Logan Webb,SF,26.2,SP
+117,Seiya Suzuki,CHC,28.5,OF
+118,George Springer,TOR,33.4,OF
+119,Ezequiel Tovar,COL,21.53,SS
+120,Triston Casas,BOS,23.1,1B
+121,Zac Veen,COL,21.1,OF
+122,Walker Buehler,LAD,28.5,SP
+123,Jackson Holliday,BAL,19.2,SS
+124,Willy Adames,MLW,27.4,SS
+125,Devin Williams,MLW,28.4,RP
+126,Pete Crow-Armstrong,CHC,20.9,OF
+127,Evan Carter,TEX,20.45,OF
+128,Ryan Mountcastle,BAL,26,1B OF
+129,Alejandro Kirk,TOR,24.3,C
+130,Pablo Lopez,MIN,26.9,SP
+131,Rhys Hoskins,PHI,29.9,1B
+132,Gleyber Torres,NYY,26.2,2B
+133,Nestor Cortes,NYY,28.2,SP
+134,Starling Marte,NYM,34.3,OF
+135,Termarr Johnson,PIT,18.7,SS
+136,Francisco Alvarez,NYM,21.2,C
+137,Blake Snell,SD,30.2,SP
+138,Yu Darvish,SD,36.5,SP
+139,Salvador Perez,KC,32.8,C
+140,Christian Yelich,MIL,31.2,OF
+141,Kris Bryant,COL,31.1,OF
+142,Taylor Ward,LAA,29.2,OF
+143,Steven Kwan,CLE,25.4,OF
+144,Kodai Senga,NYM,30,SP
+145,Shane Baz,TB,23.7,SP
+146,Elijah Green,WAS,19.2,OF
+147,Jordan Romano,TOR,29.8,RP
+148,MJ Melendez,KC,24.2,C
+149,Jake McCarthy,AZ,25.5,OF
+150,Willson Contreras,STL,30.8,C
+151,Trevor Story,BOS,30.2,2B
+152,Amed Rosario,CLE,27.2,SS
+153,Lucas Giolito,CHW,28.6,SP
+154,Kyle Wright,ATL,27.4,SP
+155,Lars Nootbaar,STL,25.4,OF
+156,Ty France,SEA,28.6,1B
+157,Jasson Dominguez,NYY,20,OF
+158,Tarik Skubal,DET,26.2,SP
+159,Kyle Harrison,SF,21.5,SP
+160,Brandon Lowe,TB,28.6,2B OF
+161,Matt Mervis,CHC,24.8,1B
+162,Oscar Colas,CHW,24.4,OF
+163,Tyler O'Neill,STL,27.6,OF
+164,Gavin Williams,CLE,23.5,SP  RP
+165,Jake Cronenworth,SD,29.1,1B 2B SS
+166,Alex Kirilloff,MIN,25.3,1B OF
+167,Camilo Doval,SF,25.6,RP
+168,Clayton Kershaw,LAD,34.9,SP
+169,Luis Garcia,HOU,26.2,SP
+170,Royce Lewis,MIN,23.7,SS
+171,Daniel Espino,CLE,22.1,SP
+172,Harry Ford,SEA,20,C
+173,Giancarlo Stanton,NYY,33.3,OF
+174,Max Muncy,LAD,32.5,1B 2B
+175,Aaron Ashby,MIL,24.7,SP
+176,Ian Happ,CHC,28.5,OF
+177,Hunter Brown,HOU,24.5,SP RP
+178,Reid Detmers,LAA,23.6,SP
+179,Jose Abreu,HOU,36,1B
+180,Ketel Marte,AZ,29.3,2B
+181,Nick Castellanos,PHI,30.9,OF
+182,Rowdy Tellez,MIL,27.9,1B
+183,Tyler Stephenson,CIN,26.5,C 1B
+184,Oscar Gonzalez,CLE,25.1,OF
+185,Connor Norby,BAL,22.7,2B
+186,Marcelo Mayer,BOS,20.2,SS
+187,Cody Bellinger,CHC,27.6,OF
+188,William Contreras,MLW,25.1,C
+189,Spencer Torkelson,DET,23.5,3B
+190,Brady Singer,KC,26.5,SP
+191,Jeffrey Springs,TB,30.4,SP  RP
+192,Ryan Helsley,STL,28.6,RP
+193,Felix Bautista,BAL,27.6,SP
+194,Colton Cowser,BAL,22.9,OF
+195,Sal Frelick,MIL,22.8,OF
+196,Curtis Mead,TB,22.3,2B
+197,Michael Kopech,CHW,26.8,SP
+198,Noelvi Marte,CIN,21.3,SS
+199,Jackson Merrill,SD,19.8,SS
+200,Jose Berrios,TOR,28.7,SP
+201,Tony Gonsolin,LAD,28.8,SP
+202,Jonathan India,CIN,26.2,2B
+203,Chris Bassitt,TOR,34,SP
+204,Jack Flaherty,STL,27.3,SP
+205,Chris Sale,BOS,33.9,SP
+206,Ryan Pressly,HOU,34.2,RP
+207,Masyn Winn,STL,20.9,SS
+208,Zach Neto,LAA,22,SS
+209,Joe Ryan,MIN,26.7,SP
+210,Brandon Pfaadt,AZ,24.3,SP
+211,Alec Bohm,PHI,26.5,3B
+212,Christian Walker,AZ,31.9,1B
+213,Matt Chapman,TOR,29.8,3B
+214,Edward Cabrera,MIA,24.8,SP
+215,Oswald Peraza,NYY,22.7,SS
+216,Sean Murphy,ATL,28.4,C
+217,Andres Munoz,SEA,24.1,RP
+218,Josh Rojas,AZ,28.6,2B  3B
+219,Bryson Stott,PHI,25.4,SS
+220,Anthony Santander,BAL,28.3,OF
+221,Brooks Lee,MIN,22,SS
+222,Josh Bell,CLE,30.5,1B
+223,Brett Baty,NYM,23.2,3B
+224,Jhoan Duran,MIN,25.09,RP
+225,Trevor Rogers,MIA,25.2,SP
+226,David Bednar,PIT,28.3,RP
+227,Marco Luciano,SF,21.4,SS
+228,Nico Hoerner,CHC,25.8,SS
+229,C.J. Cron,COL,33.1,1B
+230,Drew Rasmussen,TB,27.5,SP
+231,Jordan Montgomery,STL,30.1,SP
+232,Frankie Montas,NYY,29.9,SP
+233,Brennen Davis,CHC,23.3,OF
+234,Jorge Polanco,MIN,29.6,2B SS
+235,Gabriel Moreno,AZ,23,C
+236,Jarred Kelenic,SEA,23.6,OF
+237,Patrick Sandoval,LAA,26.3,SP
+238,Brayan Bello,BOS,23.74,SP
+239,Logan O'Hoppe,LAA,23,C
+240,Robert Hassell,WAS,21.5,OF
+241,Mackenzie Gore,WAS,24,SP
+242,George Valera,CLE,22.2,OF
+243,Tyler Soderstrom,OAK,21.2,1B
+244,Edouard Julien,MIN,23.8,2B
+245,Endy Rodriguez,PIT,22.7,C
+246,Brandon Nimmo,NYM,29.9,OF
+247,Masataka Yoshida,BOS,29.6,OF
+248,Javier Baez,DET,30.2,2B SS
+249,Anthony Rizzo,NYY,33.5,1B
+250,Tyler Mahle,MIN,28.4,SP
+251,Alex Verdugo,BOS,26.7,OF
+252,Austin Hays,BAL,27.6,OF
+253,Cam Collier,CIN,18.2,3B
+254,Gabriel Gonzalez,SEA,19.1,OF
+255,Emmanuel Rodriguez,MIN,20,OF
+256,Jeff McNeil,NYM,30.8,2B OF
+257,Bryan De La Cruz,MIA,26.2,OF
+258,Adalberto Mondesi,BOS,27.5,3B SS
+259,Dylan Carlson,STL,24.3,OF
+260,Mitch Haniger,SF,32.1,OF
+261,Taj Bradley,TB,21.9,SP
+262,Kevin Alcantara,CHC,20.6,OF
+263,Roansy Contreras,PIT,23.3,SP
+264,Jon Gray,TEX,31.3,SP
+265,Brady House,WSH,19.7,SS
+266,Colson Montgomery,CHW,21,SS
+267,Edwin Arroyo,CIN,19.5,SS
+268,Tink Hence,STL,20.5,SP RP
+269,Heston Kjerstad,BAL,24,OF
+270,Diego Cartaya,LAD,21.4,C
+271,Brayan Rocchio,CLE,22,SS
+272,Esteury Ruiz,OAK,24,2B
+273,Bobby Miller,LAD,23.9,SP RP
+274,Andrew Heaney,TEX,31.7,SP RP
+275,Charlie Morton,ATL,39.3,SP
+276,Cade Cavalli,WSH,24.5,SP
+277,Luis Arraez,MIA,25.8,2B 3B OF
+278,Justin Steele,CHC,27.6,SP
+279,Ceddanne Rafaela,BOS,22.4,SS
+280,Clay Holmes,NYY,29.9,RP
+281,Yoan Moncada,CHW,27.7,3B
+282,Gavin Lux,LAD,25.2,2B  SS
+283,Raisel Iglesias,ATL,33.1,RP
+284,Luis Urias,MIL,25.7,2B 3B SS
+285,Lourdes Gurriel Jr.,AZ,29.3,OF
+286,Brendan Rodgers,COL,26.5,2B SS
+287,Alek Thomas,AZ,22.8,OF
+288,Garrett Whitlock,BOS,26.7,SP  RP
+289,Brandon Drury,LAA,30.5,1B  2B  3B
+290,Max Meyer,MIA,23.9,SP RP
+291,Lance McCullers Jr.,HOU,29.4,SP
+292,Sonny Gray,MIN,33.3,SP
+293,Sean Manaea,SF,31,SP
+294,Nick Yorke,BOS,20.9,2B SS
+295,Thairo Estrada,SF,27,2B SS
+296,Ramon Laureano,OAK,28.6,OF
+297,Andrew Benintendi,CHW,28.6,OF
+298,Christopher Morel,CHC,23.6,SS  OF
+299,Brandon Marsh,PHI,25.2,OF
+300,Andy Pages,LAD,22.2,OF
+301,Eugenio Suarez,SEA,31.6,3B
+302,Alexis Diaz,CIN,26.4,RP
+303,Kenley Jansen,BOS,35.4,RP
+304,Kevin Parada,NYM,21.5,C
+305,Chase DeLauter,CIN,21.3,OF
+306,Drew Gilbert,HOU,22.4,OF
+307,Spencer Jones,NYY,21.7,OF
+308,Mike Soroka,ATL,25.5,SP
+309,Merrill Kelly,AZ,34.3,SP
+310,Jameson Taillon,CHC,31.2,SP
+311,Whit Merrifield,TOR,34.1,2B OF
+312,Mick Abel,PHI,21.5,SP RP
+313,Nick Gonzales,PIT,23.7,SS
+314,Joey Wiemer,MIL,24,OF
+315,Alex Ramirez,NYM,20.1,OF
+316,Jack Leiter,TEX,22.8,SP
+317,Bryce Miller,SEA,24.5,SP
+318,Gavin Stone,LAD,24.3,SP RP
+319,Jo Adell,LAA,23.8,OF
+320,Cody Morris,CLE,26.3,SP
+321,Hunter Renfroe,LAA,31,OF
+322,Cal Quantrill,CLE,28,SP RP
+323,Michael Conforto,SFG,30,OF
+324,Jesse Winker,MLW,29.5,OF
+325,Trey Mancini,CHC,30.9,1B
+326,Marcus Stroman,CHC,31.8,SP
+327,Michael Busch,LAD,25.3,2B
+328,Eric Lauer,MIL,27.7,SP
+329,Josiah Gray,WSH,25.1,SP
+330,Austin Wells,NYY,23.6,C
+331,Dustin Harris,TEX,23.6,3B
+332,Christian Encarnacion-Strand,CIN,23.2,1B 3B
+333,Juan Yepez,STL,25,1B
+334,Josh Naylor,CLE,25.6,1B OF
+335,Scott Barlow,KC,30.2,RP
+336,Harrison Bader,NYY,28.7,OF
+337,Cristian Hernandez,CHC,19.2,SP
+338,Luis Matos,SF,21,OF
+339,Henry Davis,PIT,23.4,C
+340,DL Hall,BAL,24.4,SP
+341,Gavin Cross,KC,22,OF
+342,Bo Naylor,CLE,23,C
+343,Jared Walsh,LAA,29.5,1B OF
+344,Jonathan Aranda,TB,24.7,2B
+345,Jacob Berry,MIA,21.8,3B
+346,Drey Jameson,AZ,25.5,SP
+347,Nolan Gorman,STL,22.8,3B
+348,Deyvison De Los Santos,AZ,19.6,3B
+349,Jose Urquidy,HOU,27.8,SP
+350,Luisangel Acuña,TEX,20.9,SS
+351,Tanner Bibee,CLE,23.9,SP
+352,Liam Hendriks,CHW,34,RP
+353,Austin Meadows,DET,27.8,OF
+354,Will Brennan,CLE,25,OF
+355,Seth Brown,OAK,30.6,OF
+356,Trent Grisham,SD,26.3,OF
+357,Nathan Eovaldi,TEX,33,SP
+358,Yasser Mercedes,MIN,18.2,OF
+359,Kahlil Watson,MIA,19.8,SS
+360,Anthony Gutierrez,TEX,18.2,OF
+361,Isaac Paredes,TB,24,1B
+362,Noah Syndergaard,LAD,30.5,SP
+363,Ryan McMahon,COL,28.2,3B
+364,Alexander Canario,CHC,22.8,OF
+365,Emerson Hancock,SEA,23.7,SP
+366,J.D. Martinez,LAD,35.5,UTL
+367,Dalton Rushing,LAD,22,C
+368,Joey Meneses,WAS,30.8,1B
+369,Aaron Zavala,TEX,22.6,OF
+370,Jesus Sanchez,MIA,25.3,OF
+371,Everson Pereira,TEX,21.8,OF
+372,Austin Martin,MIN,23.9,SS OF
+373,Ian Anderson,ATL,24.8,SP
+374,Miguel Bleis,BOS,18.9,OF
+375,Lance Lynn,CHW,35.8,SP
+376,Ronny Mauricio,NYM,21.9,SS
+377,Anthony Rendon,LAA,32.7,3B
+378,Shea Langeliers,ATL,25.2,C
+379,Kyle Bradish,BAL,26.4,SP
+380,Yiddi Cappe,MIA,20.4,SS
+381,Aroldis Chapman,KC,35,RP
+382,DJ LeMahieu,NYY,34.6,1B 2B 3B
+383,Ha-seong Kim,SD,27.3,2B  SS
+384,Kolten Wong,SEA,32.3,2B
+385,Jon Berti,MIA,33.1,2B 3B OF
+386,Alex Wood,SF,32.1,SP
+387,Ken Waldichuk,OAK,25.1,SP RP
+388,Cooper Hjerpe,STL,21.9,SP
+389,Tanner Houck,BOS,27.6,SP
+390,Patrick Wisdom,CHC,31.5,3B
+391,Manuel Margot,TB,28.4,OF
+392,Lane Thomas,WSH,27.5,OF
+393,Trevor Larnach,MIN,26,OF
+394,Oswaldo Cabrera,NYY,24,OF
+395,Matt Manning,DET,25,SP
+396,Cade Horton,CHC,21.5,SP
+397,German Marquez,COL,28,SP
+398,Peter Fairbanks,TB,29.2,RP
+399,Nick Gordon,MIN,27.3,2B SS OF
+400,Jarlin Susana,WAS,18.9,SP

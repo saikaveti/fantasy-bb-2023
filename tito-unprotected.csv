@@ -1,0 +1,375 @@
+﻿FANTASY TEAM,PLAYER,TEAM,POS
+Benny,Andrew Benintendi,NYY,OF
+Benny,Anthony Bass,TOR,RP
+Benny,Brad Keller,KC,RP
+Benny,Brandon Marsh,PHI,OF
+Benny,Cal Quantrill,CLE,SP
+Benny,Clarke Schmidt,NYY,RP
+Benny,Dylan Carlson,STL,OF
+Benny,Edward Cabrera,MIA,SP
+Benny,Jesus Luzardo,MIA,SP
+Benny,Keibert Ruiz,WSH,C
+Benny,Merrill Kelly,ARI,SP
+Benny,Nicky Lopez,KC,2B 3B SS
+Benny,Patrick Sandoval,LAA,SP
+Benny,Trey Mancini,HOU,1B OF
+Benny,Tyler Rogers,SF,RP
+DeepFA,Alexis Diaz,CIN,SP
+DeepFA,Collin McHugh,ATL,RP
+DeepFA,David Bednar,PIT,RP
+DeepFA,Dennis Santana,TEX,RP
+DeepFA,DJ LeMahieu,NYY,1B 2B 3B
+DeepFA,Jeimer Candelario,DET,3B
+DeepFA,Joey Meneses,WSH,1B OF
+DeepFA,Jordan Hicks,STL,SP
+DeepFA,Josh Hader,SD,RP
+DeepFA,JT Brubaker,PIT,SP
+DeepFA,Jurickson Profar,MIL,OF
+DeepFA,Kyle Farmer,CIN,3B SS
+DeepFA,Kyle Nelson,ARI,RP
+DeepFA,Luis Arraez,MIN,1B 2B
+DeepFA,Luis Urias,MIL,2B 3B SS
+DeepFA,Manuel Margot,TB,OF
+DeepFA,Michael Wacha,BOS,SP
+DeepFA,Miles Mikolas,STL,SP
+DeepFA,Tim Mayza,TOR,RP
+DeepFA,Tony Santillan,CIN,SP
+DeepFA,Yoan Moncada,CHW,3B
+Dumb,Brendan Rodgers,COL,2B
+Dumb,Carlos Carrasco,NYM,SP
+Dumb,Gavin Lux,LAD,2B OF
+Dumb,Isaac Paredes,TB,1B 2B 3B
+Dumb,Isiah Kiner-Falefa,NYY,SS
+Dumb,Jack Flaherty,STL,SP
+Dumb,Jameson Taillon,NYY,SP
+Dumb,Jean Segura,PHI,2B
+Dumb,Jeff McNeil,NYM,2B OF
+Dumb,Jo Adell,LAA,OF
+Dumb,Liam Hendriks,CHW,RP
+Dumb,Lucas Giolito,CHW,SP
+Dumb,Matt Chapman,TOR,3B
+Dumb,Max Kepler,MIN,OF
+Dumb,Nick Madrigal,CHC,2B
+Dumb,Roansy Contreras,PIT,SP
+Dumb,Rodolfo Castro,PIT,2B 3B
+Dumb,Trevor Bauer,LAD,SP
+Dumb,Tyler Anderson,LAD,SP
+Eephus,Aaron Hicks,NYY,OF
+Eephus,Adam Wainwright,STL,SP
+Eephus,Amed Rosario,CLE,SS
+Eephus,Andrew McCutchen,MIL,OF
+Eephus,Austin Meadows,DET,OF
+Eephus,Austin Slater,SF,OF
+Eephus,Chris Bassitt,NYM,SP
+Eephus,Daniel Bard,COL,RP
+Eephus,David Peterson,NYM,SP
+Eephus,David Robertson,PHI,RP
+Eephus,Jarred Kelenic,SEA,OF
+Eephus,John Schreiber,BOS,RP
+Eephus,Jorge Soler,MIA,OF
+Eephus,Jose Alvarado,PHI,RP
+Eephus,Jose Siri,TB,OF
+Eephus,Ketel Marte,ARI,2B
+Eephus,Kolten Wong,MIL,2B
+Eephus,Kyle Finnegan,WSH,RP
+Eephus,Kyle Gibson,PHI,SP
+Eephus,Luis Garcia,WSH,2B SS
+Eephus,Mike Soroka,ATL,SP
+Eephus,Mitch Keller,PIT,SP
+Eephus,Myles Straw,CLE,OF
+Eephus,Nick Martinez,SD,RP
+Eephus,Robert Suarez,SD,RP
+Eephus,Ryan Mountcastle,BAL,1B
+Eephus,Spencer Torkelson,DET,1B
+Eephus,Thairo Estrada,SF,2B SS
+Eephus,Tyler Stephenson,CIN,C
+Eephus,William Contreras,ATL,C
+Eephus,Yandy Diaz,TB,3B
+FIPS,Adbert Alzolay,CHC,SP
+FIPS,Alex Wood,SF,SP
+FIPS,Andrew Heaney,LAD,SP
+FIPS,Brady Singer,KC,SP
+FIPS,Christian Vazquez,HOU,C
+FIPS,CJ Abrams,WSH,SS
+FIPS,Evan Longoria,SF,3B
+FIPS,Franmil Reyes,CHC,UT
+FIPS,Griffin Jax,MIN,RP
+FIPS,Ha-seong Kim,SD,3B SS
+FIPS,Harold Ramirez,TB,1B OF
+FIPS,Ian Anderson,ATL,SP
+FIPS,J.D. Davis,SF,3B
+FIPS,Jarren Duran,BOS,OF
+FIPS,Jason Adam,TB,RP
+FIPS,Jesse Winker,SEA,OF
+FIPS,Jesus Sanchez,MIA,OF
+FIPS,Joe Ryan,MIN,SP
+FIPS,Jose Leclerc,TEX,RP
+FIPS,Josiah Gray,WSH,SP
+FIPS,Luis Patino,TB,SP
+FIPS,Luke Voit,WSH,1B
+FIPS,Michael Conforto,(N/A),OF
+FIPS,Mike Clevinger,SD,SP
+FIPS,Ramon Laureano,OAK,OF
+FIPS,Ross Stripling,TOR,SP
+FIPS,Trent Grisham,SD,OF
+FIPS,Trevor Larnach,MIN,OF
+FIPS,Tylor Megill,NYM,SP
+FIPS,Zach Plesac,CLE,SP
+Garlic,A.J. Puk,OAK,RP
+Garlic,Akil Baddoo,DET,OF
+Garlic,Alec Bohm,PHI,3B
+Garlic,Chris Sale,BOS,SP
+Garlic,Corey Kluber,TB,SP
+Garlic,Dakota Hudson,STL,SP
+Garlic,David Villar,SF,3B
+Garlic,Diego Castillo,SEA,RP
+Garlic,Eddie Rosario,ATL,OF
+Garlic,Eric Lauer,MIL,SP
+Garlic,James Karinchak,CLE,RP
+Garlic,Joey Gallo,LAD,OF
+Garlic,Jonah Heim,TEX,C
+Garlic,Jose Berrios,TOR,SP
+Garlic,Josh Naylor,CLE,1B
+Garlic,Kendall Graveman,CHW,RP
+Garlic,Matt Manning,DET,SP
+Garlic,Michael Brantley,HOU,OF
+Garlic,Nolan Gorman,STL,2B
+Garlic,Ryan Jeffers,MIN,C
+Garlic,Tyler Mahle,MIN,SP
+Garlic,Wilmer Flores,SF,1B 2B 3B
+Garlic,Wil Myers,SD,1B OF
+Garlic,Zach Eflin,PHI,RP
+Gilmore,Alex Cobb,SF,SP
+Gilmore,Bailey Ober,MIN,SP
+Gilmore,Brooks Raley,TB,RP
+Gilmore,Bryson Stott,PHI,2B SS
+Gilmore,Chas McCormick,HOU,OF
+Gilmore,Clay Holmes,NYY,RP
+Gilmore,Dillon Tate,BAL,RP
+Gilmore,Edward Olivares,KC,OF
+Gilmore,Edwin Rios,LAD,UT
+Gilmore,Garrett Cooper,MIA,1B
+Gilmore,Gregory Soto,DET,RP
+Gilmore,Jake Cronenworth,SD,1B 2B
+Gilmore,Jake Fraley,CIN,OF
+Gilmore,Joey Bart,SF,C
+Gilmore,Jorge Polanco,MIN,2B
+Gilmore,Jose Quintana,STL,SP
+Gilmore,Keegan Thompson,CHC,RP
+Gilmore,Leody Taveras,TEX,OF
+Gilmore,Luis Garcia,HOU,SP
+Gilmore,Mike Yastrzemski,SF,OF
+Gilmore,Pablo Lopez,MIA,SP
+Gilmore,Pavin Smith,ARI,OF
+Gilmore,Rowdy Tellez,MIL,1B
+Gilmore,Seth Brown,OAK,1B OF
+Gilmore,TJ Friedl,CIN,OF
+Gilmore,Tony Gonsolin,LAD,SP
+Gilmore,Tyler A. Wells,BAL,SP
+Gilmore,Zach Jackson,OAK,RP
+HEWTA,Adalberto Mondesi,KC,SS
+HEWTA,Andres Gimenez,CLE,2B
+HEWTA,Brandon Drury,SD,1B 2B 3B
+HEWTA,Brandon Nimmo,NYM,OF
+HEWTA,Carlos Santana,SEA,1B
+HEWTA,Casey Mize,DET,SP
+HEWTA,Cavan Biggio,TOR,1B 2B
+HEWTA,Domingo German,NYY,SP
+HEWTA,Dylan Moore,SEA,SS OF
+HEWTA,Elvis Andrus,CHW,SS
+HEWTA,Enrique Hernandez,BOS,OF
+HEWTA,German Marquez,COL,SP
+HEWTA,Hunter Greene,CIN,SP
+HEWTA,Hunter Renfroe,MIL,OF
+HEWTA,Jeffrey Springs,TB,SP
+HEWTA,Ji-Man Choi,TB,1B
+HEWTA,Jordan Romano,TOR,RP
+HEWTA,Julio Urias,LAD,SP
+HEWTA,Lourdes Gurriel Jr.,TOR,OF
+HEWTA,Michael Kopech,CHW,SP
+HEWTA,Mitch Garver,TEX,UT
+HEWTA,Mitch Haniger,SEA,OF
+HEWTA,Ryan Pressly,HOU,RP
+HEWTA,Ryne Stanek,HOU,RP
+HEWTA,Taylor Rogers,MIL,RP
+HEWTA,Tony Kemp,OAK,2B OF
+HEWTA,Trevor Stephan,CLE,RP
+HEWTA,Tyler Glasnow,TB,SP
+HEWTA,Willson Contreras,CHC,C
+Hoos,Adolis Garcia,TEX,OF
+Hoos,Alex Verdugo,BOS,OF
+Hoos,Anthony Rendon,LAA,3B
+Hoos,Anthony Santander,BAL,OF
+Hoos,Austin Hays,BAL,OF
+Hoos,Braxton Garrett,MIA,SP
+Hoos,Brusdar Graterol,LAD,RP
+Hoos,Drew Rasmussen,TB,SP
+Hoos,Harrison Bader,NYY,OF
+Hoos,Jake Odorizzi,ATL,SP
+Hoos,James Kaprielian,OAK,SP
+Hoos,James Paxton,BOS,SP
+Hoos,Javier Baez,DET,SS
+Hoos,Jordan Montgomery,STL,SP
+Hoos,Jose Urquidy,HOU,SP
+Hoos,Marcell Ozuna,ATL,OF
+Hoos,Marcus Stroman,CHC,SP
+Hoos,Nick Gordon,MIN,2B OF
+Hoos,Oscar Gonzalez,CLE,OF
+Hoos,Randal Grichuk,COL,OF
+Hoos,Ryan McMahon,COL,3B
+Hoos,Sean Manaea,SD,SP
+Hoos,Sonny Gray,MIN,SP
+Hoos,Vidal Brujan,TB,2B OF
+Poop,Bryan De La Cruz,MIA,OF
+Poop,Cal Raleigh,SEA,C
+Poop,Charlie Morton,ATL,SP
+Poop,Christian Yelich,MIL,OF
+Poop,Eugenio Suarez,SEA,3B
+Poop,Giovanny Gallegos,STL,RP
+Poop,J.D. Martinez,BOS,UT
+Poop,John Means,BAL,SP
+Poop,Jon Gray,TEX,SP
+Poop,Jorge Lopez,MIN,RP
+Poop,Jose Abreu,CHW,1B
+Poop,Josh Bell,SD,1B
+Poop,Justin Steele,CHC,SP
+Poop,Kris Bryant,COL,OF
+Poop,Lars Nootbaar,STL,OF
+Poop,MacKenzie Gore,WSH,SP
+Poop,Michael A. Taylor,KC,OF
+Poop,Nathan Eovaldi,BOS,SP
+Poop,Nick Castellanos,PHI,OF
+Poop,Paul Sewald,SEA,RP
+Poop,Pete Fairbanks,TB,RP
+Poop,Ryan Helsley,STL,RP
+Poop,Seranthony Dominguez,PHI,RP
+Poop,Taijuan Walker,NYM,SP
+Poop,Yasmani Grandal,CHW,C
+Poop,Yu Darvish,SD,SP
+Ships,Aaron Ashby,MIL,RP
+Ships,Alex Kirilloff,MIN,OF
+Ships,Bailey Falter,PHI,SP
+Ships,Brandon Belt,SF,1B
+Ships,Brandon Hughes,CHC,RP
+Ships,Byron Buxton,MIN,OF
+Ships,C.J. Cron,COL,1B
+Ships,Chris Taylor,LAD,2B OF
+Ships,Craig Kimbrel,LAD,RP
+Ships,Dean Kremer,BAL,SP
+Ships,Dylan Floro,MIA,RP
+Ships,Eduardo Rodriguez,DET,SP
+Ships,Frankie Montas,NYY,SP
+Ships,J.T. Realmuto,PHI,C
+Ships,Jimmy Herget,LAA,RP
+Ships,Jorge Mateo,BAL,SS
+Ships,Justin Verlander,HOU,SP
+Ships,Kenley Jansen,ATL,RP
+Ships,Kyle Muller,ATL,SP
+Ships,Lance Lynn,CHW,SP
+Ships,Lane Thomas,WSH,OF
+Ships,Mark Canha,NYM,OF
+Ships,Martin Perez,TEX,SP
+Ships,Teoscar Hernandez,TOR,OF
+Ships,Tommy Pham,BOS,OF
+Ships,Trevor Rogers,MIA,SP
+Ships,Zac Gallen,ARI,SP
+Ships,Zack Wheeler,PHI,SP
+Topes,Aaron Civale,CLE,SP
+Topes,Adam Frazier,SEA,2B OF
+Topes,Anthony Rizzo,NYY,1B
+Topes,Charlie Blackmon,COL,OF
+Topes,Christian Walker,ARI,1B
+Topes,Clayton Kershaw,LAD,SP
+Topes,Eric Haase,DET,C
+Topes,Eric Hosmer,BOS,1B
+Topes,Garrett Crochet,CHW,RP
+Topes,Hunter Dozier,KC,1B 3B OF
+Topes,J.P. Crawford,SEA,SS
+Topes,Jake Meyers,HOU,OF
+Topes,Jonathan Loaisiga,NYY,RP
+Topes,Justin Turner,LAD,3B
+Topes,Kenta Maeda,MIN,SP
+Topes,Kyle Hendricks,CHC,SP
+Topes,Lance McCullers Jr.,HOU,SP
+Topes,Luke Weaver,KC,RP
+Topes,Madison Bumgarner,ARI,SP
+Topes,Marco Gonzales,SEA,SP
+Topes,Mark Melancon,ARI,RP
+Topes,Matt Barnes,BOS,RP
+Topes,MJ Melendez,KC,C OF
+Topes,Nelson Cruz,WSH,UT
+Topes,Nick Pivetta,BOS,SP
+Topes,Omar Narvaez,MIL,C
+Topes,Robbie Ray,SEA,SP
+Topes,Santiago Espinal,TOR,2B
+Topes,Starling Marte,NYM,OF
+Topes,Zack Greinke,KC,SP
+Train,A.J. Minter,ATL,RP
+Train,Adrian Sampson,CHC,SP
+Train,Alex Vesia,LAD,RP
+Train,Bubba Thompson,TEX,OF
+Train,Caleb Ferguson,LAD,RP
+Train,Cedric Mullins,BAL,OF
+Train,Cionel Perez,BAL,RP
+Train,Danny Jansen,TOR,C
+Train,Felix Bautista,BAL,RP
+Train,Gavin Sheets,CHW,OF
+Train,Jake McCarthy,ARI,OF
+Train,Josh Rojas,ARI,2B 3B
+Train,Kyle Wright,ATL,SP
+Train,Mike Brosseau,MIL,3B
+Train,Rafael Montero,HOU,RP
+Train,Ranger Suarez,PHI,SP
+Train,Robbie Grossman,ATL,OF
+Train,Sam Hentges,CLE,RP
+Train,Steven Okert,MIA,RP
+Train,Yimi Garcia,TOR,RP
+Turd,Brendan Donovan,STL,2B 3B OF
+Turd,Christopher Morel,CHC,2B OF
+Turd,Daniel Lynch,KC,SP
+Turd,Evan Phillips,LAD,RP
+Turd,Garrett Whitlock,BOS,RP
+Turd,Ian Happ,CHC,OF
+Turd,Jared Walsh,LAA,1B
+Turd,Joc Pederson,SF,OF
+Turd,Jon Berti,MIA,2B 3B
+Turd,Jose Barrero,CIN,SS
+Turd,Jose Miranda,MIN,1B 3B
+Turd,Josh Lowe,TB,OF
+Turd,Juan Yepez,STL,OF
+Turd,Ke'Bryan Hayes,PIT,3B
+Turd,Keston Hiura,MIL,1B
+Turd,Michael King,NYY,RP
+Turd,Nathaniel Lowe,TEX,1B
+Turd,Noah Syndergaard,PHI,SP
+Turd,Scott Barlow,KC,RP
+Turd,Tanner Houck,BOS,RP
+Turd,Tarik Skubal,DET,SP
+Turd,Trevor Story,BOS,2B
+wOBA,Andre Pallante,STL,SP
+wOBA,Aroldis Chapman,NYY,RP
+wOBA,Avisail Garcia,MIA,OF
+wOBA,Brayan Bello,BOS,SP
+wOBA,Camilo Doval,SF,RP
+wOBA,Chris Flexen,SEA,RP
+wOBA,Devin Smeltzer,(N/A),RP
+wOBA,Eduardo Escobar,NYM,3B
+wOBA,Emilio Pagan,MIN,RP
+wOBA,Emmanuel Rivera,ARI,3B
+wOBA,Gary Sanchez,MIN,C
+wOBA,Geraldo Perdomo,ARI,SS
+wOBA,Gio Urshela,MIN,3B
+wOBA,J.P. Feyereisen,TB,RP
+wOBA,Jack Suwinski,PIT,OF
+wOBA,Johnny Cueto,CHW,SP
+wOBA,Mickey Moniak,LAA,OF
+wOBA,Nelson Velazquez,CHC,OF
+wOBA,Nick Pratto,KC,1B
+wOBA,Paul Blackburn,OAK,SP
+wOBA,Raisel Iglesias,ATL,RP
+wOBA,Rhys Hoskins,PHI,1B
+wOBA,Sam Huff,TEX,C
+wOBA,Shea Langeliers,OAK,UT
+wOBA,Taylor Walls,TB,2B 3B SS
+wOBA,Whit Merrifield,TOR,2B OF
+wOBA,Zack Thompson,STL,SP
