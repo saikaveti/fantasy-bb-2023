@@ -27,17 +27,13 @@ BREW,Walker Buehler,LAD
 BTrain,Andrew Vaughn,CHW
 BTrain,Andy Ibanez,DET
 BTrain,Edmundo Sosa,PHI
-BTrain,Fernando Tatis Jr.,SD
 BTrain,Garrett Mitchell,MIL
 BTrain,Isiah Kiner-Falefa,TOR/PIT
 BTrain,Jose Iglesias,NYM
 BTrain,Jurickson Profar,SD
 BTrain,Logan O'Hoppe,LAA
-BTrain,Michael Busch,CHC
 BTrain,Mike Yastrzemski,SF
 BTrain,Nico Hoerner,CHC
-BTrain,Ozzie Albies,ATL
-BTrain,Ronald Acuna Jr.,ATL
 BTrain,Ryan Jeffers,MIN
 BTrain,Sal Frelick,MIL
 BTrain,Tommy Pham,CHW/STL/KC
@@ -45,17 +41,14 @@ BTrain,Victor Robles,WSH/SEA
 BTrain,Wenceel Perez,DET
 BTrain,Andrew Abbott,CIN
 BTrain,Ben Joyce,LAA
-BTrain,Bryce Miller,SEA
 BTrain,Casey Mize,DET
 BTrain,Cole Sands,MIN
 BTrain,Dylan Lee,ATL
-BTrain,Gavin Williams,CLE
 BTrain,Javier Assad,CHC
 BTrain,Jordan Leasure,CHW
 BTrain,Jose Butto,NYM
 BTrain,Keegan Akin,BAL
 BTrain,Nick Sandlin,CLE
-BTrain,Paul Skenes,PIT
 BTrain,Pedro Avila,SD/CLE
 BTrain,Reed Garrett,NYM
 BTrain,Ronel Blanco,HOU
@@ -192,7 +185,6 @@ IPHM,Kyle Finnegan,WSH
 IPHM,Mitch Keller,PIT
 IPHM,Reese Olson,DET
 FIPs,Austin Wells,NYY
-FIPs,CJ Abrams,WSH
 FIPs,David Fry,CLE
 FIPs,David Hamilton,BOS
 FIPs,Gleyber Torres,NYY
@@ -205,7 +197,6 @@ FIPs,Lars Nootbaar,STL
 FIPs,Max Muncy,LAD
 FIPs,Michael Conforto,SF
 FIPs,Nathaniel Lowe,TEX
-FIPs,Rafael Devers,BOS
 FIPs,Sean Murphy,ATL
 FIPs,Alexis Diaz,CIN
 FIPs,Bryan Woo,SEA
@@ -304,16 +295,11 @@ PIE!,Danny Jansen,TOR/BOS
 PIE!,Eugenio Suarez,ARI
 PIE!,J.P. Crawford,SEA
 PIE!,James Outman,LAD
-PIE!,Jose Altuve,HOU
-PIE!,Juan Soto,NYY
 PIE!,Justin Turner,TOR/SEA
-PIE!,Luis Robert Jr.,CHW
 PIE!,Starling Marte,NYM
 PIE!,Travis d'Arnaud,ATL
 PIE!,Tyler O'Neill,BOS
-PIE!,Yainer Diaz,HOU
 PIE!,Chad Green,TOR
-PIE!,Corbin Burnes,BAL
 PIE!,Emmanuel Clase,CLE
 PIE!,Jared Jones,PIT
 PIE!,Josh Hader,HOU
